@@ -1,0 +1,8 @@
+To run the software :-
+1. Download XAMPP
+2. Import the database to XAMPP
+3. Start the MySQL and Apache servers
+4. download the folder into the htdocs folder
+5. Change the path of the json file in the test2.php file to path
+6. Click on the login.php page
+ 
